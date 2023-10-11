@@ -1,3 +1,3 @@
 # micropython
-network resource
-![How to convert an int to bytes in Python](https://www.adamsmith.haus/python/answers/how-to-convert-an-int-to-bytes-in-python)
+network resource<br />
+![How to convert an int to bytes in Python](https://www.adamsmith.haus/python/answers/how-to-convert-an-int-to-bytes-in-python)<br />

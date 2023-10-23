@@ -1,6 +1,7 @@
 # micropython
 <<<   function   >>><br />
 ️⛳️ [Python Print Without Newline: Easy Step-by-Step Guide](https://blog.enterprisedna.co/python-print-without-newline-easy-step-by-step-guide/)<br />
+️⛳️ [pyFormat](https://pyformat.info/#number)
 
 <<<   data type >>><br />
 🌐 [How to convert an int to bytes in Python](https://www.adamsmith.haus/python/answers/how-to-convert-an-int-to-bytes-in-python)<br />

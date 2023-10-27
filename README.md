@@ -9,7 +9,7 @@
 🌐 [bytes和bytearray](https://blog.csdn.net/LittleHuang950620/article/details/81585294)<br />
 
 <<<   SPI   >>><br />
-👷‍♂️ [machine.SPI Function](https://www.waveshare.com/wiki/%E3%80%90MicroPython%E3%80%91machine.SPI_Function)< br />
+👷‍♂️ [machine.SPI Function](https://www.waveshare.com/wiki/%E3%80%90MicroPython%E3%80%91machine.SPI_Function)<br />
 <<<   LIBRARY   >>><br />
 👷‍♂️ [MicroPython Asynchronous MQTT](https://github.com/peterhinch/micropython-mqtt/tree/master/mqtt_as)
 
